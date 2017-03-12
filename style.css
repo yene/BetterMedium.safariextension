@@ -1,0 +1,3 @@
+.js-stickyFooter, .js-postShareWidget, .postMetaHeader {
+  display: none !important;
+}

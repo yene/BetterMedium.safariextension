@@ -1,0 +1,9 @@
+[{
+    "trigger": {
+      "url-filter": "medium.com",
+      "resource-type": ["script"]
+    },
+    "action": {
+        "type": "block"
+    }
+}]
